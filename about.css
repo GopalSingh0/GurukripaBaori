@@ -1,0 +1,39 @@
+.heading{
+    color: red;
+  font-size: 100px;
+  font-family: "Dancing Script", cursive;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+.navbar {
+    background-color: white;
+    position: relative;
+    top: 200px;
+    height: 90px;
+  }
+  
+  .navbar li {
+    float: left;
+    list-style: none;
+   margin: 13px 20px;
+    font-size: 35px;
+  }
+  
+  .navbar ul {
+    overflow: auto;
+  }
+  
+  .navbar li a {
+    padding: 90px 90px;
+    text-decoration: none;
+    color: blue;
+    font-size: 45px;
+  }
+  
+.photo{
+    position: relative;
+    top: -90px;
+}
